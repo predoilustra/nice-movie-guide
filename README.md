@@ -1,4 +1,4 @@
-# Nice movie guid 🍿
+# Nice movie guide 🍿
 
 ## Table of Contents
 
