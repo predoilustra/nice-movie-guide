@@ -16,8 +16,6 @@ Running the website locally in a development environment.
 
 ### Clone the website repository
 
-What things you need to install the software and how to install them.
-
 ```
 git clone https://github.com/predoilustra/nice-movie-guide.git
 ```
