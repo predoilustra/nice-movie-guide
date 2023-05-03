@@ -134,6 +134,7 @@ p{
 .msg{
     text-align: center;
 }
+
 @media screen and (max-width: 600px) {
     .container{
         font-size: 11px;
