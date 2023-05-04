@@ -9,7 +9,7 @@
 
 body{
     height: 100vh;
-    background-color: #1b1e23;
+    background-color: #1e293b;
 }
 
 .container{
@@ -23,7 +23,7 @@ body{
     top: 50%;
     left: 50%;
     border-radius: 0.6em;
-    box-shadow: 1.2em 2em 3em rgba(0, 0, 0, 0.2);
+    box-shadow: transparent
 }
 
 .search-container{
